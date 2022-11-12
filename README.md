@@ -6,7 +6,7 @@ study jongman
 [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS)
 ## 안창용
 
-# ~1113 GOAL
+# ~1120 GOAL
 
 ## 손수민 (2문제)
 [PACKING](https://algospot.com/judge/problem/read/PACKING)
