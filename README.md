@@ -11,3 +11,10 @@ study jongman
 ## 손수민 (2문제)
 [PACKING](https://algospot.com/judge/problem/read/PACKING)
 [OCR](https://algospot.com/judge/problem/read/OCR)
+
+# ~1127 GOAL
+
+## 손수민(3문제)
+[OCR](https://algospot.com/judge/problem/read/OCR)
+[MORSE](https://algospot.com/judge/problem/read/MORSE)
+[KLIS](https://algospot.com/judge/problem/read/KLIS)
